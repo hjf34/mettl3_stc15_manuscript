@@ -19,3 +19,7 @@ Scripts to process and analyse GLORI and RNA-seq data for the manuscript:
   - count As and Gs at each A position in transcriptome (parallelized bcftools mpileup)
   - calculate m6A proportions A/A+G
   - filter for positions with A+G count ≥ 20 and m6A proportion ≥ 0.25
+
+---
+
+Raw data: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE312944
